@@ -43,7 +43,8 @@ No external libraries are needed.
 
 ---
 
-#Here is an Example:
+## Here is an Example:
+
 ```
 What would you like to deposit? $50
 Enter the number of lines to bet on (1-3): 2
