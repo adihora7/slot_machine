@@ -40,3 +40,20 @@ No external libraries are needed.
    `cd your-repo-name`
 3. Run the program:
    `python slot_machine.py`
+
+---
+
+##Here is an Example:
+```
+What would you like to deposit? $50
+Enter the number of lines to bet on (1-3): 2
+What would you like to bet on each line? $5
+
+You are betting $5 on 2 lines. Total bet = $10
+
+D | C | A
+B | B | B
+C | D | D
+
+You won $20
+Winning lines: 2```
