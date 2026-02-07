@@ -57,4 +57,4 @@ B | B | B
 C | D | D
 
 You won $20
-Winning lines: 2```
+Winning lines: 2
